@@ -1,3 +1,4 @@
 *.xlsx
 *.docx
 .ipynb_checkpoints
+*lock*
